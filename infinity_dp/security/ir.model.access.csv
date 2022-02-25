@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+prueba1_manager,prueba1 manager,model_infinity_dp_prueba1,group_manager,1,1,1,1
+session_manager,session manager,model_infinity_dp_session,group_manager,1,1,1,1
+prueba1_read_all,prueba1 all,model_infinity_dp_prueba1,,1,1,1,1
+session_read_all,session all,model_infinity_dp_session,,1,1,1,1
+wizard_manager,wizard manager,model_infinity_dp_wizard,group_manager,1,1,1,1

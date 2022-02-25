@@ -1,0 +1,25 @@
+<odoo>
+    <data>
+       <record model="openacademy.course" id="1a">
+            <field name="name">Matemática</field>
+            <field name="description">
+            Curso de matemáticas básicas
+            </field>
+        </record>
+
+        <record model="openacademy.course" id="2b">
+            <field name="name">Lengua y Literatura</field>
+            <field name="description">
+            Curso de lengua y Literatura
+            </field>
+        </record>
+
+        <record model="openacademy.course" id="3c">
+            <field name="name">Física</field>
+            <field name="description">
+            Curso de Física de básica
+            </field>
+        </record>
+
+    </data>
+</odoo>
